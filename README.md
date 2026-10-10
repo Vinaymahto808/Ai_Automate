@@ -419,4 +419,5 @@ The server doesn't print logs or errors to the terminal. Errors are shown in the
 - Before the first real campaign, test each connection with a small budget and a near-term schedule.
 - API versions are configurable (`META_API_VERSION`, `GOOGLE_ADS_API_VERSION`), so you can follow each platform's deprecation schedule without code changes.
 #   A i _ A u t o m a t e  
+ #   A i _ A u t o m a t e  
  
