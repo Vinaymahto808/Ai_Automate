@@ -418,3 +418,5 @@ The server doesn't print logs or errors to the terminal. Errors are shown in the
 - Google Search campaigns have no end date on Google's side. The scheduler pauses them at the end time, and the total-spend guard also applies.
 - Before the first real campaign, test each connection with a small budget and a near-term schedule.
 - API versions are configurable (`META_API_VERSION`, `GOOGLE_ADS_API_VERSION`), so you can follow each platform's deprecation schedule without code changes.
+#   A i _ A u t o m a t e  
+ 
